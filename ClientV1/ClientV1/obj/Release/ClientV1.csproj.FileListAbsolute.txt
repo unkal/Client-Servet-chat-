@@ -1,0 +1,9 @@
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\bin\Release\ClientV1.exe
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\bin\Release\ClientV1.pdb
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.Form1.resources
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.Form2.resources
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.Properties.Resources.resources
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.csproj.GenerateResource.Cache
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.exe
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.pdb
+D:\Project\ProjectVisual\ServerClient\CV2\ClientV1\obj\Release\ClientV1.Form3.resources

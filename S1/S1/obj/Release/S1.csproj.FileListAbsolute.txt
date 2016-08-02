@@ -1,0 +1,5 @@
+D:\Project\ProjectVisual\ServerClient\S1\S1\bin\Release\S1.exe
+D:\Project\ProjectVisual\ServerClient\S1\S1\bin\Release\S1.pdb
+D:\Project\ProjectVisual\ServerClient\S1\S1\obj\Release\S1.csprojResolveAssemblyReference.cache
+D:\Project\ProjectVisual\ServerClient\S1\S1\obj\Release\S1.exe
+D:\Project\ProjectVisual\ServerClient\S1\S1\obj\Release\S1.pdb
